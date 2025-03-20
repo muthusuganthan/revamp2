@@ -1,0 +1,33 @@
+.container-para1{
+    background-color: rgb(223, 44, 110);   
+    height: 300px;
+ background-image:url(../assets/picture\ 1.jpg); 
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+/* cover on size */
+background-image opacity: 0.5;
+
+}
+.divpara{
+    color: #03fce8;
+    width: max-content;
+     height: max-content;
+      /*at given in unites height and width as 10px  */
+     /* vw as full of size */
+}
+.para2{
+    background-color: red   ;
+    height: 300px;
+    width: 200px;
+ padding: 20px;
+margin-top: 12px;
+margin-bottom: 13px;
+margin-left: 10px;
+margin-right: 10px;
+border: whitesmoke;
+border-style: double;
+border-radius: 20px;
+border top width: 25px;
+/* all propertiess have left rightt top bottom */
+}
