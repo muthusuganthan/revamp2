@@ -30,4 +30,10 @@ border-style: double;
 border-radius: 20px;
 border top width: 25px;
 /* all propertiess have left rightt top bottom */
+.para3-child
+{
+    width: 100vw;
+    height: 100vw;
+    background-color: blue;
+
 }
