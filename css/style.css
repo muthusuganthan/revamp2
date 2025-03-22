@@ -23,11 +23,11 @@ text-decoration: dotted;
 { 
     background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
     font-family: "Roboto", sans-serif;
-    height: 100vh;
+    height: 750px;
+    width: 450px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.9;
     
 
 }
@@ -44,15 +44,15 @@ text-decoration: dotted;
 .para11
 {
     color: white;
-    position: absolute;
-    left: 8%;
+    padding: 2%;
 }
 .button1
 {   
 font-family: 'Times New Roman', Times, serif;
 color: white;
-background-color: yellow;
-margin-top: 100px;
+background-color: orange;
+padding: 7px;
+margin-top: 30px;
 border: 2px;
 border-radius: 3px;
 ;
